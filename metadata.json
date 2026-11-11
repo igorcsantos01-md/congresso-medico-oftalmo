@@ -1,0 +1,6 @@
+{
+  "name": "I Congresso Médico Virtual Interdisciplinar — Portal & Autenticador Oficial (Certificado Nº 06)",
+  "description": "Plataforma Científica Oficial, Anais e Sistema de Verificação Pública de Autenticidade do I Congresso Médico Virtual Interdisciplinar de Atualização Clínica, Cirúrgica e Saúde Ocular (Editora Mente e Saúde & Centro Profissionalizante Maria Dalva de Araújo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
